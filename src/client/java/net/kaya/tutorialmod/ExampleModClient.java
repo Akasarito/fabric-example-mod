@@ -1,4 +1,4 @@
-package com.example;
+package net.kaya.tutorialmod;
 
 import net.fabricmc.api.ClientModInitializer;
 
